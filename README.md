@@ -10,10 +10,8 @@ Super Simple ps script to pull inventory information off of a remote user's work
 * And if you are connected by RDP it will also copy it to your local machine.
     * I use this for a quick scan of their system.
 
-To view the code click here:
-https://raw.githubusercontent.com/morganbo85/inventory_scan/main/inventory.ps1
+<p>To view the code click here:</p>
  
-To download click here: 
 https://github.com/morganbo85/inventory_scan/blob/main/inventory.ps1
 
 Typically I use this script over an RDP connection.
